@@ -1,0 +1,85 @@
+{
+  "department": [
+    {
+      "name": "Planning ",
+      "employees": [
+        {
+          "name": "navil",
+          "position": "employe",
+          "skills": [
+            {
+              "name": "fast work as your work"
+            }
+          ]
+        },
+        {
+          "name": "bhargav",
+          "position": "manager",
+          "skills": [
+            {
+              "name": "team work "
+            }
+          ]
+        }
+      ],
+      "id": "be9f"
+    },
+    {
+      "name": "Design ",
+      "employees": [
+        {
+          "name": "dhruv",
+          "position": "manager",
+          "skills": [
+            {
+              "name": "team "
+            }
+          ]
+        }
+      ],
+      "id": "ebe6"
+    },
+    {
+      "id": "4aa4",
+      "name": "production",
+      "employees": [
+        {
+          "name": "harsh",
+          "position": "employee",
+          "skills": [
+            {
+              "name": "speak english"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "it wala",
+      "employees": [
+        {
+          "name": "kamo",
+          "position": "designer",
+          "skills": [
+            {
+              "name": "game "
+            },
+            {
+              "name": "ui/ux"
+            }
+          ]
+        },
+        {
+          "name": "jago",
+          "position": "next devloper",
+          "skills": [
+            {
+              "name": "ts js tw"
+            }
+          ]
+        }
+      ],
+      "id": "0517"
+    }
+  ]
+}
